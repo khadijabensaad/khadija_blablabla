@@ -81,6 +81,7 @@ products = sortProductQuantite(products); // liste
 
 getproducts("ba3ed", products);
 
+//khadija tjarreb
 /*
 console.log("sortProductPrix",sortProductPrix(products)) 
 console.log("sortProductQuantite",sortProductQuantite(products))  */
